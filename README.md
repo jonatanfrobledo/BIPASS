@@ -6,7 +6,9 @@
 
 > 🔍 **Este proyecto fue desarrollado como parte de la materia _Gestión de Proyectos_ de la Tecnicatura Universitaria en Programación (Universidad Austral).**
 
-> 🤖 **Debido al alto nivel de complejidad técnica, se utilizó inteligencia artificial de forma intensiva** (ChatGPT de OpenAI, GitHub Copilot, etc.) **para asistir en arquitectura, generación de código y documentación. Estas herramientas actuaron como asistentes técnicos y pedagógicos, garantizando una comprensión total del sistema por parte del desarrollador**
+>🤖 Uso de Inteligencia Artificial: Durante el desarrollo se utilizaron herramientas de asistencia como ChatGPT y GitHub Copilot para apoyo en tareas de documentación, validación de arquitectura, generación de ejemplos de código y resolución de problemas específicos.
+
+Todas las decisiones de diseño, implementación e integración fueron comprendidas, revisadas y adaptadas al contexto del proyecto por el alumno y desarrollador.
 
 ---
 
@@ -93,6 +95,17 @@ BIPASS/
 - Logging y monitoreo
 - Manejo de errores robusto
 
+## 🚧 Roadmap
+
+- [x] Gestión de usuarios
+- [x] Gestión de eventos
+- [x] Sistema de tickets
+- [x] Pagos
+- [ ] Streaming en vivo
+- [ ] Aplicación móvil
+- [ ] Notificaciones push
+
+      
 ## Contacto
 Jonatan Frobledo - [@jonatanfrobledo](https://github.com/jonatanfrobledo)
 
